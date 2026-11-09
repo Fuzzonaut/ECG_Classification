@@ -115,7 +115,7 @@ These are left as they were in the original design:
 The trained weights (`model/`, about 220 KB) and 8 example ECGs from the test set (`samples/`) are included in the repo:
 
 ```bash
-git clone <this repo> && cd ptb-xl-ecg-classification
+git clone https://github.com/Fuzzonaut/ECG_Classification.git && cd ECG_Classification
 pip install torch wfdb pandas scikit-learn scipy matplotlib gradio
 ```
 
