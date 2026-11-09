@@ -1,0 +1,130 @@
+[
+  {
+    "name": "NORM: normal ECG",
+    "record": "00009_lr",
+    "ecg_id": 9,
+    "true_labels": [
+      "NORM"
+    ],
+    "age": 55.0,
+    "sex": "male",
+    "height": null,
+    "weight": 70.0,
+    "infarction_stadium1": null,
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "CLBBB: complete left bundle branch block",
+    "record": "00180_lr",
+    "ecg_id": 180,
+    "true_labels": [
+      "CLBBB"
+    ],
+    "age": 81.0,
+    "sex": "female",
+    "height": null,
+    "weight": null,
+    "infarction_stadium1": null,
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "CRBBB: complete right bundle branch block",
+    "record": "02433_lr",
+    "ecg_id": 2433,
+    "true_labels": [
+      "CRBBB"
+    ],
+    "age": 43.0,
+    "sex": "female",
+    "height": null,
+    "weight": null,
+    "infarction_stadium1": null,
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "IMI: inferior myocardial infarction",
+    "record": "00175_lr",
+    "ecg_id": 175,
+    "true_labels": [
+      "IMI"
+    ],
+    "age": 64.0,
+    "sex": "male",
+    "height": null,
+    "weight": 90.0,
+    "infarction_stadium1": "Stadium II-III",
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "ASMI: anteroseptal myocardial infarction",
+    "record": "00063_lr",
+    "ecg_id": 63,
+    "true_labels": [
+      "ASMI"
+    ],
+    "age": 30.0,
+    "sex": "male",
+    "height": null,
+    "weight": 78.0,
+    "infarction_stadium1": "unknown",
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "LAFB: left anterior fascicular block",
+    "record": "00157_lr",
+    "ecg_id": 157,
+    "true_labels": [
+      "LAFB"
+    ],
+    "age": 74.0,
+    "sex": "female",
+    "height": null,
+    "weight": null,
+    "infarction_stadium1": null,
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "LVH: left ventricular hypertrophy",
+    "record": "01219_lr",
+    "ecg_id": 1219,
+    "true_labels": [
+      "LVH"
+    ],
+    "age": 38.0,
+    "sex": "female",
+    "height": 176.0,
+    "weight": 64.0,
+    "infarction_stadium1": null,
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  },
+  {
+    "name": "1AVB: first degree AV block",
+    "record": "02146_lr",
+    "ecg_id": 2146,
+    "true_labels": [
+      "1AVB"
+    ],
+    "age": 68.0,
+    "sex": "male",
+    "height": 180.0,
+    "weight": 75.0,
+    "infarction_stadium1": null,
+    "infarction_stadium2": null,
+    "pacemaker": false,
+    "extra_beats": null
+  }
+]

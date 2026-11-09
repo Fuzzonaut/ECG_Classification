@@ -1,0 +1,178 @@
+{
+  "1AVB": {
+    "description": "first degree AV block",
+    "superclass": "Conduction disturbance"
+  },
+  "2AVB": {
+    "description": "second degree AV block",
+    "superclass": "Conduction disturbance"
+  },
+  "3AVB": {
+    "description": "third degree AV block",
+    "superclass": "Conduction disturbance"
+  },
+  "ALMI": {
+    "description": "anterolateral myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "AMI": {
+    "description": "anterior myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "ANEUR": {
+    "description": "ST-T changes compatible with ventricular aneurysm",
+    "superclass": "ST/T change"
+  },
+  "ASMI": {
+    "description": "anteroseptal myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "CLBBB": {
+    "description": "complete left bundle branch block",
+    "superclass": "Conduction disturbance"
+  },
+  "CRBBB": {
+    "description": "complete right bundle branch block",
+    "superclass": "Conduction disturbance"
+  },
+  "DIG": {
+    "description": "digitalis-effect",
+    "superclass": "ST/T change"
+  },
+  "EL": {
+    "description": "electrolytic disturbance or drug (former EDIS)",
+    "superclass": "ST/T change"
+  },
+  "ILBBB": {
+    "description": "incomplete left bundle branch block",
+    "superclass": "Conduction disturbance"
+  },
+  "ILMI": {
+    "description": "inferolateral myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "IMI": {
+    "description": "inferior myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "INJAL": {
+    "description": "subendocardial injury in anterolateral leads",
+    "superclass": "Myocardial infarction"
+  },
+  "INJAS": {
+    "description": "subendocardial injury in anteroseptal leads",
+    "superclass": "Myocardial infarction"
+  },
+  "INJIL": {
+    "description": "subendocardial injury in inferolateral leads",
+    "superclass": "Myocardial infarction"
+  },
+  "INJIN": {
+    "description": "subendocardial injury in inferior leads",
+    "superclass": "Myocardial infarction"
+  },
+  "INJLA": {
+    "description": "subendocardial injury in lateral leads",
+    "superclass": "Myocardial infarction"
+  },
+  "IPLMI": {
+    "description": "inferoposterolateral myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "IPMI": {
+    "description": "inferoposterior myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "IRBBB": {
+    "description": "incomplete right bundle branch block",
+    "superclass": "Conduction disturbance"
+  },
+  "ISCAL": {
+    "description": "ischemic in anterolateral leads",
+    "superclass": "ST/T change"
+  },
+  "ISCAN": {
+    "description": "ischemic in anterior leads",
+    "superclass": "ST/T change"
+  },
+  "ISCAS": {
+    "description": "ischemic in anteroseptal leads",
+    "superclass": "ST/T change"
+  },
+  "ISCIL": {
+    "description": "ischemic in inferolateral leads",
+    "superclass": "ST/T change"
+  },
+  "ISCIN": {
+    "description": "ischemic in inferior leads",
+    "superclass": "ST/T change"
+  },
+  "ISCLA": {
+    "description": "ischemic in lateral leads",
+    "superclass": "ST/T change"
+  },
+  "ISC_": {
+    "description": "non-specific ischemic",
+    "superclass": "ST/T change"
+  },
+  "IVCD": {
+    "description": "non-specific intraventricular conduction disturbance (block)",
+    "superclass": "Conduction disturbance"
+  },
+  "LAFB": {
+    "description": "left anterior fascicular block",
+    "superclass": "Conduction disturbance"
+  },
+  "LAO/LAE": {
+    "description": "left atrial overload/enlargement",
+    "superclass": "Hypertrophy"
+  },
+  "LMI": {
+    "description": "lateral myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "LNGQT": {
+    "description": "long QT-interval",
+    "superclass": "ST/T change"
+  },
+  "LPFB": {
+    "description": "left posterior fascicular block",
+    "superclass": "Conduction disturbance"
+  },
+  "LVH": {
+    "description": "left ventricular hypertrophy",
+    "superclass": "Hypertrophy"
+  },
+  "NDT": {
+    "description": "non-diagnostic T abnormalities",
+    "superclass": "ST/T change"
+  },
+  "NORM": {
+    "description": "normal ECG",
+    "superclass": "Normal ECG"
+  },
+  "NST_": {
+    "description": "non-specific ST changes",
+    "superclass": "ST/T change"
+  },
+  "PMI": {
+    "description": "posterior myocardial infarction",
+    "superclass": "Myocardial infarction"
+  },
+  "RAO/RAE": {
+    "description": "right atrial overload/enlargement",
+    "superclass": "Hypertrophy"
+  },
+  "RVH": {
+    "description": "right ventricular hypertrophy",
+    "superclass": "Hypertrophy"
+  },
+  "SEHYP": {
+    "description": "septal hypertrophy",
+    "superclass": "Hypertrophy"
+  },
+  "WPW": {
+    "description": "Wolf-Parkinson-White syndrome",
+    "superclass": "Conduction disturbance"
+  }
+}

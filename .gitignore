@@ -1,0 +1,25 @@
+# Dataset and generated artifacts (too large for git)
+data/
+checkpoints/
+*.npz
+*.pt
+!model/*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter workspace state
+.jupyter/

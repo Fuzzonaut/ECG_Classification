@@ -1,0 +1,17 @@
+{
+  "macro_auroc": 0.8986959004914568,
+  "micro_auroc": 0.9677648945285987,
+  "macro_ap": 0.2938193008479281,
+  "micro_ap": 0.6973503472104315,
+  "macro_f1": 0.17877327137383553,
+  "micro_f1": 0.6358798935765868,
+  "samples_f1": 0.6078311944933011,
+  "subset_accuracy": 0.5088919288645691,
+  "hamming_loss": 0.01985656842017991,
+  "labelwise_accuracy": 0.9801434315798201,
+  "labelwise_accuracy_all_negative_baseline": 0.9679973469303155,
+  "threshold": 0.5,
+  "n_samples": 2193,
+  "n_labels": 44,
+  "n_labels_evaluated_for_auc": 44
+}

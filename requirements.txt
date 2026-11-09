@@ -1,0 +1,14 @@
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+torch>=2.0
+wfdb>=4.1
+matplotlib>=3.6
+scipy>=1.9
+gradio>=4.0
+# gradio 4.x (the last version for Python 3.9) breaks with newer versions of these two:
+huggingface_hub<1.0; python_version < "3.10"
+pydantic<2.11; python_version < "3.10"
+seaborn>=0.12
+missingno>=0.5
+jupyter
